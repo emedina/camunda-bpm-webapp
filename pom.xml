@@ -10,7 +10,7 @@
     <relativePath>../camunda-bpm-platform/database</relativePath>
   </parent>
 
-  <artifactId>camunda-webapp</artifactId>
+  <artifactId>camunda-webapp-inbox</artifactId>
   <groupId>org.camunda.bpm.webapp</groupId>
   <packaging>war</packaging>
   <name>camunda BPM - webapp - app</name>
